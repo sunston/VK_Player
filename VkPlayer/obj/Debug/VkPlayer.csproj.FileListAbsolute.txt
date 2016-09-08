@@ -1,0 +1,17 @@
+c:\users\anton\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\VkPlayer.exe.config
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\VkPlayer.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\VkPlayer.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.Form1.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.Form2.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.csproj.ResolveComReference.cache
